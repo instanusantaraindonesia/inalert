@@ -1,0 +1,9 @@
+{
+  "name": "inalert",
+  "version": "0.2.1",
+  "private": true,
+  "description": "Platform informasi dan peringatan dini berbasis sumber resmi.",
+  "scripts": {
+    "build": "echo \"INalert build OK\""
+  }
+}
